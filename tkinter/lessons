@@ -1,0 +1,25 @@
+1 => create a blank window with a label
+
+2 => top frame and bottom frame
+
+3 => filling content(fill) on X(width) anf Y(height)
+
+4/5 => align widgets (grid, row, column, sticky, columnspan)
+
+6 => binding a function to a button(bind, event)
+
+7 => binding with directionnal arrows
+
+8 => label with a function printing a message and a quit button
+
+9 => menu with submenus and separator
+
+10 => 9 + toolbar with padding
+
+11 => 10 + status bar(border, relief, anchor)
+
+12 => message box(showinfo + askquestion)
+
+13 => canvas with forms(line, rectangle), can be deleted
+
+14 => display an image
